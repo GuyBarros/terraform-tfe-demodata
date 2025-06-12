@@ -1,0 +1,4 @@
+hostname = "tftest.guy.sbx.hashidemos.io"
+token = "example"
+workspaces_count = 10
+github_app_id = "ghain_xxxxx"
